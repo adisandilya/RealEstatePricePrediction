@@ -64,10 +64,6 @@ Run the project with:
 
 python app.py
 
-Then open your browser and go to:
-
-http://localhost:5000
-
 🧪 Testing
 The project uses pytest to run test cases. You can run the test suite with:
 pytest
